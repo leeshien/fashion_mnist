@@ -26,10 +26,10 @@
 ![alt text](https://raw.githubusercontent.com/leeshien/fashion_mnist/master/images/filter_layers.png)
 
 ### 5. Visualize activation layer for test set
-##### Test image:
+##### Test image (binary):
 ![alt text](https://raw.githubusercontent.com/leeshien/fashion_mnist/master/images/test_img.png)
 
-##### Activation layers
+##### Activation layers:
 ![alt text](https://raw.githubusercontent.com/leeshien/fashion_mnist/master/images/activation_layers_0.png)
 ![alt text](https://raw.githubusercontent.com/leeshien/fashion_mnist/master/images/activation_layers_1.png)
 ![alt text](https://raw.githubusercontent.com/leeshien/fashion_mnist/master/images/activation_layers_2.png)
