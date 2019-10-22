@@ -22,5 +22,6 @@
   * Building CNN layers
  
 ### 4. Visualize filters for each layer
+![alt text](https://raw.githubusercontent.com/username/fashion_mnist/images/test_img.png)
 
 ### 5. Visualize activation layer for test set
